@@ -1,0 +1,1 @@
+document.getElementsByClassName("container").innerHTML="<h1>new title</h1>";
